@@ -42,6 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-publicacoes {
+body.publicacoes {
     background-color: #006400;
 }
