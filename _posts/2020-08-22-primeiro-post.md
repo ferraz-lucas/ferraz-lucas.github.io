@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crando meu site com GitHub Pages e Jenkins"
+title: "Criando meu site com GitHub Pages e Jenkins"
 date: 2020-08-22
 ---
 
